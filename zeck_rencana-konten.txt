@@ -1,10 +1,12 @@
 Rencana Konten Zeck
 
-- Genshin
-  * Eksplorasi
-  * Spiral 
-- Valorant
-  * Compe
-- Need For Speed Heat
-  * Story
-  * Balap with subs
+- JavaScript
+ * ES6
+ * Framework Javascript
+   ^ React
+   ^ Vue
+   ^ Angular
+- Struktur Data Dasar
+- PHP Framework
+  ^ Laravel
+- Pythons
