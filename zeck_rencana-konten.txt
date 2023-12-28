@@ -1,4 +1,6 @@
 Rencana Konten Zeck
 
 - Genshin
+  * Eksplorasi
+  * Spiral 
 - Valorant
